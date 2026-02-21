@@ -8,5 +8,5 @@ git push -u origin main
 
 
 git add .
-git commit -m "Application Tracker Section"
+git commit -m "All Cards 1 done"
 git push -u origin main
